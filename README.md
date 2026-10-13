@@ -213,4 +213,4 @@ Helpinator is available as a **full free version** with **all features** and upd
 Start creating your help files effortlessly by downloading Helpinator today!
 
 ---
-**Last updated:** 2026-10-13 18:01:14 UTC
+**Last updated:** 2026-10-13 23:12:32 UTC
